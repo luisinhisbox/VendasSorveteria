@@ -19,3 +19,5 @@ Foi criado um workspace no Azure Machine Learning e, de dentro do studio, os job
 ### MÉTRICAS CHILD JOB
 ![Métricas do melhor child job](https://github.com/luisinhisbox/VendasSorveteria/blob/b1c1cd34ccf53dab4ddb712bee36c6aa012a76f8/assets/m%C3%A9tricaschildjob.png)
 
+## Aprendizados
+Como um projeto para estudos, aprendi que o mínimo de 50 entradas de dados é requerido para o alcance maior de precisão. Com isso, os dados gerados para um mês apenas não foram suficientes inicialmente, então adicionei mais um mês e refiz os jobs com base nessa nova tabela atualizada.
